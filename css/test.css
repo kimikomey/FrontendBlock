@@ -1,0 +1,13 @@
+body {
+    background-color: brown;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1 {
+    color: crimson;
+    font-weight: 800; 
+    background-color: dodgerblue;
+}
+.upperimp {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: limegreen;
+}
